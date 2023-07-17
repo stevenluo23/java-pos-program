@@ -7,3 +7,7 @@ as name, phone number, table number, and amount of people.
 
 ## Java Programming Concepts Utilized
 Data types, variables, control structures such as loops and conditional statements, data structures such as arrays and strings, the use of the Scanner class for user input, defining and calling methods, and formatting output using printf.
+
+## Things to Improve
+- Create and identify simpler, more manageable methods from larger methods
+- Learn more about Java to improve overall code quality
