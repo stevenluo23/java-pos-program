@@ -10,4 +10,4 @@ Data types, variables, control structures such as loops and conditional statemen
 
 ## Things to Improve
 - Create and identify simpler, more manageable methods from larger methods
-- Learn more about Java to improve overall code quality
+- Learn more about Java to improve overall code quality and design
