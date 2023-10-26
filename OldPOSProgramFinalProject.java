@@ -11,7 +11,7 @@ as name, phone number, table number, and amount of people.
 
 import java.util.Scanner;
 
-public class POSProgramFinalProject {
+public class OldPOSProgramFinalProject {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
