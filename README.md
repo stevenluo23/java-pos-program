@@ -1,5 +1,5 @@
 # The Four Pillars of Object Oriented Programming
-This program was refactored to reflect the four pillars of object oriented programming. I used ChatGPT to help make part of the program, but most of the work involving the four pillars of OOP were implemented by me.
+This program was refactored to reflect the four pillars of object oriented programming. I used ChatGPT to help refactor parts of the program, but most of the work involving the four pillars of OOP were implemented by me.
 
 ## Introduction
 This program is a text/console based point-of-sale
